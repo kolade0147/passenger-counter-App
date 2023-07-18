@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  background: #1B244A;
+  text-align: centre;
+}
+.container {
+display: flex;
+justify-content: space-around;
+text-align: center;
+margin-top: 90px;
+}
+.one {
+ color: yellow;
+ font-weight: 800;
+ font-size: 45px;
+}
+.text{
+  font-family: 'Cursed Timer ULiL';
+  width: 150px;
+  height: 160px;
+  background-color: black;
+  margin-top: 50px;
+  border-radius: 5px;
+}
+.two{
+  color: blue;
+  padding-top: 30px;
+  font-size: 100px;
+}
+.num-btn{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.btn{
+ border: 2px solid green; ;
+ height: 15px;
+ width: 20px;
+ padding: 5px;
+ color: green;
+}
